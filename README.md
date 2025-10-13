@@ -17,6 +17,8 @@ Built a honeypot VM in Azure to capture failed login attempts, analyzed attacker
 - Built an interactive attack map highlighting top attacker regions.
 - Demonstrated practical SOC and log analysis skills.
 
+- ![Attack Map](Visualization/attack_map_screenshot.png)
+
 ## Ethics & Safety
 All data was collected in a controlled, isolated environment.  
 Raw IP addresses were anonymized before publication.
