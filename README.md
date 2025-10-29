@@ -19,7 +19,6 @@ Sensitive data has been sanitized prior to publication.
 - Built an interactive attack map highlighting top attacker regions.
 - Demonstrated practical SOC and log analysis skills.
 
-![Attack Map](Visualization/AttackMap/AttackMap.PNG)
 
 ## Ethics & Safety
 All data was collected in a controlled, isolated environment.  
