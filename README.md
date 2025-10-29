@@ -18,6 +18,7 @@ Sensitive data has been sanitized prior to publication.
 - Logged and analyzed hundreds of brute-force attempts from global IPs.
 - Built an interactive attack map highlighting top attacker regions.
 - Demonstrated practical SOC and log analysis skills.
+- ![Attack Map](https://raw.githubusercontent.com/joar7160-byte/Honeypot-VM-Attack-Map/main/Visualization/AttackMap/AttackMap.jpg)
 
 ## Ethics & Safety
 All data was collected in a controlled, isolated environment.  
