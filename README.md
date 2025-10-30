@@ -18,7 +18,8 @@ Sensitive data has been sanitized prior to publication.
 - Logged and analyzed hundreds of brute-force attempts from global IPs.
 - Built an interactive attack map highlighting top attacker regions.
 - Demonstrated practical SOC and log analysis skills.
-- ![Attack Map](<img width="1426" height="574" alt="image" src="https://github.com/user-attachments/assets/17f81c61-910c-4647-a6c2-1c6ea4062ddc" />)
+- <img width="1426" height="574" alt="image" src="https://github.com/user-attachments/assets/433cda8f-1266-4707-af48-6ca704305b5f" />
+
 
 ## Ethics & Safety
 All data was collected in a controlled, isolated environment.  
