@@ -10,7 +10,7 @@ Sensitive data has been sanitized prior to publication.
 
 ## Key Steps
 1. Deployed a public-facing VM in an isolated Azure VNet.
-2. Captured SecurityEvent logs (Event ID 4625 – failed logins).
+2. Captured SecurityEvent logs (Event ID 4625 : failed logins).
 - <img width="2035" height="935" alt="LogQuery1" src="https://github.com/user-attachments/assets/141489ac-539a-4d0b-bb43-9313d1df0312" />
 
 
