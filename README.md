@@ -1,7 +1,6 @@
 # Honeypot-VM-Attack-Map
 This project captures and analyzes failed login attempts to a honeypot VM.
 Using Azure Sentinel KQL queries and a GeoIP watchlist, failed authentication events were aggregated by region and visualized as a global attack heatmap.
-Sensitive data has been sanitized prior to publication.
 
 ## Tools & Technologies
 - Microsoft Azure (VM + VN + Log Analytics)
